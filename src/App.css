@@ -1,0 +1,28 @@
+.wrapper {
+  min-height: 100vh;
+  margin: 2%;
+}
+
+.plus-icon {
+  font-size: xx-large;
+}
+
+.recent-location {
+  color: grey;
+}
+
+.citylist {
+  cursor: pointer;
+}
+
+.weather-icon {
+  width: 10em;
+}
+
+.weather-icon2 {
+  width: 5em;
+}
+
+.clear-button {
+  bottom: 0;
+}
